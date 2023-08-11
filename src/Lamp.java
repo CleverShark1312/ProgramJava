@@ -21,6 +21,8 @@ class Main {
 
 //Objects inside same class
 
+// My JAVA
+
 class Lamp {
     boolean isOn;
     void turnOn() {
