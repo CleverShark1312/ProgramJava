@@ -78,6 +78,7 @@ public class Main {
         return x * x;
     }
     public static void main(String[] args) {
+        //initializing the for loop
         for (int i = 1; i <= 10; i++) {
             int result = getSquare(i);
             System.out.println("Square of " + i + " is: " + result);
