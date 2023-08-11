@@ -71,6 +71,7 @@ public class Main {
 */
 
 //Reusing methods in code
+//Understanding classes and objects.
 
 public class Main {
     private static int getSquare(int x){
